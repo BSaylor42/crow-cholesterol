@@ -1,3 +1,16 @@
+# Project file
+*.Rproj
+
+# data folder 
+*data/
+
+# output folder 
+*output/
+
+# images 
+*.png
+*.jpg
+
 # History files
 .Rhistory
 .Rapp.history
